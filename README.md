@@ -26,4 +26,4 @@ There are multiple features I am working on currently, such as improving the spe
 
 
 # WARNING
-Blooket is a popular education website that many teachers use to teach students. Using this script in the classroom against teachers or instructors is done at your own being. I am not liable for anything as a result of the usage of this script. 
+Blooket is a popular education website that many teachers use to teach students. Using this script in the classroom against teachers or instructors is done at your own risk. I am not liable for anything as a result of the usage of this script. 
