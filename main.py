@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.9
+#!/usr/bin/env python3
 
 #Script to bomb blooket with fake players
 #Only works for 60 players as host must have blooket+ to have 1000
